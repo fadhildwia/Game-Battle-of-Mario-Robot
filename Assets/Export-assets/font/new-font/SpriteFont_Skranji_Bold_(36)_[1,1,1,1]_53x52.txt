@@ -1,0 +1,52 @@
+﻿Import the relevant data below into Construct2/3.
+
+################################################################################
+
+Character width: 53
+Character height: 52
+Character set: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&()[]|`\/@°+=*$£€<>%
+
+################################################################################
+Construct 3 ONLY.
+Copy the following JSON text and paste into the 'Spacing data' property of the SpriteFont. No extra coding is required!
+
+[[17," "],[13,"|"],[14,"'"],[16,".,:[]"],[17,"il;!`°"],[18,"("],[19,"I)"],[20,"1"],[21,"Ss\""],[23,"j-\\/="],[24,"~+"],[25,"crt<>"],[26,"f*"],[27,"kuz2?$£"],[28,"CJaehnvy37"],[29,"EFLgx58€"],[30,"bp069"],[31,"GPdq4"],[32,"BDRTZ"],[33,"HKUYo%"],[34,"N#&"],[35,"X"],[37,"V@"],[38,"A"],[39,"OQm"],[40,"w"],[42,"_"],[46,"M"],[51,"W"]]
+
+################################################################################
+Construct 2 ONLY.
+Copy the following JSON text and paste into the Array.Load command INSIDE the default quotes.
+
+{""c2array"":true,""size"":[2,29,1],""data"":[[[17],[13],[14],[16],[17],[18],[19],[20],[21],[23],[24],[25],[26],[27],[28],[29],[30],[31],[32],[33],[34],[35],[37],[38],[39],[40],[42],[46],[51]],[["" ""],[""|""],[""'""],["".,:[]""],[""il;!`°""],[""(""],[""I)""],[""1""],[""Ss\""""],[""j-\\/=""],[""~+""],[""crt<>""],[""f*""],[""kuz2?$£""],[""CJaehnvy37""],[""EFLgx58€""],[""bp069""],[""GPdq4""],[""BDRTZ""],[""HKUYo%""],[""N#&""],[""X""],[""V@""],[""A""],[""OQm""],[""w""],[""_""],[""M""],[""W""]]]}
+
+################################################################################
+These are the details for building the character widths manually, with the SpriteFont  'Set character width' action.
+
+17	" "
+13	"|"
+14	"'"
+16	".,:[]"
+17	"il;!`°"
+18	"("
+19	"I)"
+20	"1"
+21	"Ss"""
+23	"j-\/="
+24	"~+"
+25	"crt<>"
+26	"f*"
+27	"kuz2?$£"
+28	"CJaehnvy37"
+29	"EFLgx58€"
+30	"bp069"
+31	"GPdq4"
+32	"BDRTZ"
+33	"HKUYo%"
+34	"N#&"
+35	"X"
+37	"V@"
+38	"A"
+39	"OQm"
+40	"w"
+42	"_"
+46	"M"
+51	"W"
